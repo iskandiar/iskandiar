@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksander Maj</h1>
-<h3 align="center">Javascript developer with passion to UX and with backend skills</h3>
+<h3 align="center">Javascript developer with passion for UX and with backend skills</h3>
 
 - 🌱 I’m currently learning **Svelte**
 
